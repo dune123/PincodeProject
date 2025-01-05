@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import './App.css'
 import Pincode from './Pincode'
-import PostOffice from './postOffice'
+import PostOffice from './PostOffice'
 const App = () => {
    return(
     <BrowserRouter>
